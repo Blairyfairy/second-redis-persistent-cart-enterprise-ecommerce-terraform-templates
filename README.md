@@ -1,5 +1,7 @@
 # Enterprise AWS Full-Stack Architecture Terraform Templates
 
+https://blairyfairy.github.io/BlairPage/blog.html
+
 Production-ready Terraform configurations for deploying high-availability, scalable e-commerce platforms (WooCommerce & Magento 2) on AWS, featuring Multi-AZ RDS MySQL, Dual ElastiCache Redis (separating cache and persistent cart sessions), Amazon OpenSearch, Application Load Balancers, and CloudFront CDN.
 
 ## Architecture Highlights
